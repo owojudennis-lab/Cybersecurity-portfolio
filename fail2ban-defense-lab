@@ -1,0 +1,26 @@
+ Fail2Ban SSH Protection Lab
+
+ Objective
+Detect and block brute force SSH attacks.
+
+ Setup
+- Attacker: Kali Linux
+- Victim: Ubuntu Server
+
+ Attack
+Used Hydra to brute-force SSH login.
+
+ Logs Observed
+/var/log/auth.log
+
+ Defense
+Configured Fail2Ban jail for SSH.
+
+ Result
+- Attacker IP banned after multiple attempts
+- Verified using:
+  sudo fail2ban-client status sshd
+
+ Key Learning
+- Importance of log monitoring
+- Automated defense reduces attack surface

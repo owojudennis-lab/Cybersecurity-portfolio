@@ -12,53 +12,77 @@ I am a cybersecurity enthusiast focused on blue team operations, including netwo
 
 | Skill                                                   | Associated Project |
 |---------------------------------------------------------|-------------------|
-| Linux System Administration (Ubuntu Server)             | Home SOC Lab |
-| VirtualBox Networking (Host-Only / NAT Configuration)   | Home Lab Setup |
-| SSH Security Testing and Brute Force Simulation         | Attack Simulation Lab |
-| Log Analysis (auth.log, syslog investigation)           | Intrusion Detection Lab |
-| Intrusion Detection and Prevention with Fail2Ban        | Fail2Ban Defense Lab |
-| Security Event Monitoring and Incident Investigation     | SOC Monitoring Lab |
-| Network Scanning and Enumeration with Nmap              | Reconnaissance Lab |
-| Defensive Security (Blue Team Fundamentals)              | SOC Practice Lab |
-| Access Control and Authentication Hardening             | Linux Security Hardening Lab |
-| Security Troubleshooting and System Diagnostics          | Linux Troubleshooting Lab |
-| Attack Simulation (Kali Linux vs Ubuntu Target)          | Offensive Security Lab |
-| Packet and Traffic Awareness (basic network analysis)    | Network Security Lab |
-| Service Configuration and Hardening (sshd, firewall)     | System Hardening Lab |
-| Security Tooling Setup and Configuration                 | SOC Tooling Lab |
-| Incident Response Basics (Detection → Analysis → Action) | Incident Response Lab |
+| Home-soc-lab                                               | Home SOC Lab |
+| Attack simulation lab                                      | Attack Simulation Lab |
+| Fail2ban-defense-lab                                       | Fail2ban Defense Lab |
+| Network-recon-lab                                          | Network Recon Lab |
+| Security-automation-lab                                    | Security Automation Lab |
+| Network Scanning and Enumeration with Nmap                 | Reconnaissance Lab |
+| Access Control and Authentication Hardening                | Linux Security Hardening Lab |
+| Security Troubleshooting and System Diagnostics            | Linux Troubleshooting Lab |
+| Attack Simulation (Kali Linux vs Ubuntu Target)            | Offensive Security Lab |
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Cybersecurity lab and SOC tools used across home environment simulations and defensive security practice]
 
-### Network
+---
+
+### Network Security & Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004372?&style=for-the-badge&logo=OpenBSD&logoColor=white" />
 </div>
 
-### Endpoint
+---
+
+### Linux & System Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash_Scripting-121011?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
-### SIEM
+---
+
+### Intrusion Detection & Defense
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fail2Ban-4B275F?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-UFW_Firewall-EF3B2D?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+
+### Log Analysis & Monitoring
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux_Logs-2E8B57?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Syslog-555555?&style=for-the-badge&logo=Logstash&logoColor=white" />
+</div>
+
+---
+
+### Virtualization & Lab Environment
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HostOnly_Networking-6A5ACD?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-NAT_Networking-4682B4?&style=for-the-badge" />
+</div>
+
+---
+
+### Security Concepts Practiced
+<div>
+    <img src="https://img.shields.io/badge/-Brute_Force_Attacks-8B0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SSH_Security-000000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Incident_Response-FF8C00?&style=for-the-badge" />
+</div>
+
+## Certifications & Learning Path
+
+<div>
+<img src="https://img.shields.io/badge/-CompTIA_Security%2B_In_Progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Path-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco_Networking_Intro_Path-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
